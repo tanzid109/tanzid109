@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif"  />
+  <img height="450" src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif"  />
 </div>
 
 ###
