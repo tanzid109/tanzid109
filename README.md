@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="450" src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif"  />
+  <img height="200" src="https://raw.githubusercontent.com/tanzid109/tanzid109/refs/heads/main/cover.png"  />
 </div>
 
 ###
