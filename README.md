@@ -29,7 +29,7 @@
 
 ###
 
-<h5 align="left">Hey there,I'm Tanzid and I am studying at M.M. College, Department of Mathematics.I'm a junior developer.I always try to make everyone happy.My goal is to create a happy and peaceful family life by spreading love, understanding, and support. I want to be a developer. Because this profession gives me peace. In my free time I prefer watching movies.<br><br>- 🔭 I’m working as a junior developer<br>- 📚 I'm currently learning and focusing<br>- ⚡ In my free time I like to play video games</h5>
+<h5 align="left">Hey there,I'm Tanzid.I'm a junior developer.I always try to make everyone happy.My goal is to create a happy and peaceful family life by spreading love, understanding, and support. I want to be a developer. Because this profession gives me peace. In my free time I prefer watching movies.<br><br>- 🔭 I’m working as a junior developer<br>- 📚 I'm currently learning and focusing<br>- ⚡ In my free time I like to play video games</h5>
 
 ###
 
