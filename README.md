@@ -84,8 +84,12 @@
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tanzid109&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img width="37%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tanzid109&layout=compact&theme=tokyonight" />
+  <img
+    height="170"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=tanzid109&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img
+    height="170"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tanzid109&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
