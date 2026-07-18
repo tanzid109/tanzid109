@@ -1,6 +1,6 @@
-<!-- Banner -->
+<!-- cover -->
 <p align="center">
-  <img src="./banner.png" alt="GitHub Banner" width="100%" />
+  <img src="./cover.png" alt="GitHub cover" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Tanzid Un Khalil</h1>
