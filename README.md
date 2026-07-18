@@ -1,81 +1,144 @@
+<!-- Banner -->
+<img src="/cover.png" alt="GitHub Banner">
+
+<br/>
+
 <div align="center">
-  <img height="200" width="100%" src="https://raw.githubusercontent.com/tanzid109/tanzid109/refs/heads/main/cover.png" />
+
+# Hi 👋, I'm Tanzid Un Khalil
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Next.js+%26+React+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG"/>
+
 </div>
 
-<h1 align="center">Hi 👋 I'm Tanzid</h1>
-<h3 align="center">Frontend Developer | React | MERN Stack</h3>
+---
 
-<p align="center">
-  I build fast, responsive, and user-focused web applications with modern technologies.
+## 🚀 About Me
+
+- 👋 Hi, I'm **[@tanzid109](https://github.com/tanzid109)**
+- 💼 Full Stack Web Developer with **1+ year of professional experience**
+- 🌱 Currently improving my skills in **TypeScript, Prisma, PostgreSQL & NestJS**
+- ⚡ Building scalable applications using **Next.js, React.js, Node.js & Express.js**
+- 🛠️ Experienced with **MongoDB, Firebase, Tailwind CSS, ShadCN UI, Redux Toolkit**
+- 🤖 Passionate about integrating **AI APIs** into modern web applications
+- 💬 Ask me about **React, Next.js, MERN Stack, REST APIs, Prisma & Tailwind CSS**
+- 🌐 Portfolio: **https://tanzid.vercel.app**
+- 📫 Email: **tanzid.unkhalil109@gmail.com**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/tanzid-un-khalil" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+<a href="https://github.com/tanzid109" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+
+<a href="mailto:tanzid.unkhalil109@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+
+<a href="https://tanzid.vercel.app">
+<img src="https://img.icons8.com/color/48/domain.png" width="45"/>
+</a>
+
 </p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/tanzid-un-khalil-677a01276" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:tanzid.unkhalil109@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://x.com/K_tanzid" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-</div>
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://github.com/tanzid109)
+
+### Frontend
+
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind)](https://github.com/tanzid109)
+
+### Backend
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express)](https://github.com/tanzid109)
+
+### Database
+
+[![Database](https://skillicons.dev/icons?i=mongodb,postgres,prisma,firebase)](https://github.com/tanzid109)
+
+### Tools
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,cloudflare)](https://github.com/tanzid109)
 
 ---
 
-### 🚀 About Me
+# 🚀 Featured Projects
 
-- 💻 Frontend Developer focused on building scalable web apps  
-- ⚛️ Strong experience with **React, Tailwind, and modern JavaScript**  
-- 🌱 Currently learning **TypeScript & advanced React patterns**  
-- 🎯 Goal: Deliver clean UI, smooth UX, and real-world solutions  
-- ⚡ Passionate about turning ideas into interactive products  
+### 🛍️ Morningwood
 
----
+Streaming platform built with Next.js featuring authentication, dashboard, and responsive UI.
 
-### 🛠 Tech Stack
+**Tech Stack**
 
-**Frontend**
-- HTML5, CSS3, Tailwind CSS
-- Next JS
-- JavaScript (ES6+)  
-- React.js  
-
-**Backend & Database**
-- Node.js  
-- MongoDB  
-- Firebase
-- Express
+`Next.js` `React` `MongoDB` `Tailwind CSS` `Express.js`
 
 ---
 
-### 🎨 Design Tools
+### 🤖 AI Chatbot
 
-- Figma  
-- Adobe Photoshop  
-- Adobe Illustrator
-  
----
+AI-powered chatbot using OpenRouter API with modern responsive interface.
 
-### 📊 GitHub Stats
+**Tech Stack**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanzid109&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanzid109&layout=compact&theme=dracula" height="150" />
-</div>
+`Next.js` `OpenRouter` `React` `Tailwind CSS`
+
 
 ---
 
-### 🔥 What Makes Me Different
+# 📈 GitHub Statistics
 
-- Clean and maintainable code mindset  
-- Strong UI/UX sense (developer + design background)  
-- Fast learner, adaptable to new tech  
-- Focus on real-world problem solving  
+### GitHub Stats
+
+| | |
+|---|---|
+| ![](https://github-readme-stats.vercel.app/api?username=tanzid109&show_icons=true&theme=tokyonight&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanzid109&layout=compact&theme=tokyonight&hide_border=true) |
 
 ---
 
-### 📫 Let's Work Together
+### GitHub Streak
 
-I’m open to **Frontend / MERN Stack opportunities** and freelance projects.  
-Feel free to reach out 🚀
+![](https://streak-stats.demolab.com?user=tanzid109&theme=tokyonight&hide_border=true)
+
+---
+
+### GitHub Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=tanzid109&theme=tokyo-night)
+
+---
+
+### GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=tanzid109&theme=tokyonight&no-frame=true&row=1)
+
+---
+
+# ✨ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=tanzid109&label=Profile%20Views&color=3B82F6&style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+
+</p>
