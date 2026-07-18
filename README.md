@@ -84,7 +84,7 @@
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tanzid109&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tanzid109&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzid109&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -102,14 +102,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanzid109&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tanzid109&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 </p>
 
 ---
